@@ -2,9 +2,9 @@
 
 > **Eternal**
 
-1. ``7.59`` **The Sin** by S_D1am0nd [13832843365] [https://www.youtube.com/watch?v=TYPNKpdwha4]
+1. ``7.59`` **Deimos** by iminsane [N/A] [https://www.youtube.com/watch?v=hVD110dZKp8]
 
-2. ``7.50`` **Death Corridor** by alex333144, MidnightsCrucible, ssgam_eR [9643234169] [https://www.youtube.com/watch?v=CX30PQC-tVc]
+2. ``7.50`` **Lingering Enterprise V3** by iminsane, vfxdraco [N/A] [https://www.youtube.com/watch?v=eSptuLS4Cwg]
 
 3. ``7.38`` **Ascension to Heaven** by S_D1am0nd [15333842734] [https://www.youtube.com/watch?v=j3IoYLGceXQ]
 
