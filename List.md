@@ -20,6 +20,6 @@
 
 > **Extreme**
 
-11. ``5.54`` **Unknown** by iminsane [N/A] [Link Goes Here]
+8. ``5.54`` **Unknown** by iminsane [N/A] [Link Goes Here]
 
 ##. ``6.00`` **Placeholder** by N/A [N/A] [Link Goes Here]
