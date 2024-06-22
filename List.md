@@ -1,4 +1,4 @@
-> **THE OFFICIAL TRIA.OS DIFFICULTY LIST [FOR MAPS IMINSANE CONTRIBUTES TO]**
+> **THE OFFICIAL TRIA.OS DIFFICULTY LIST [FOR MAPS IMINSANE MAKES/CONTRIBUTES TO]**
 
 > **Eternal**
 
@@ -17,6 +17,8 @@
 6. ``6.77`` **space speedbuild map** by iminsane [N/A] [https://www.youtube.com/watch?v=0eJpfdopzb4]
 
 7. ``6.50`` **generic tria.os map** by iminsane [N/A] [N/A]
+
+8. ``6.10`` **Subzero Station** by tax, Game148, 06ix09ine, iminsane [N/A] [https://www.youtube.com/watch?v=oqKFAQyGnh4]
 
 > **Extreme**
 
